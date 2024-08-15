@@ -1,0 +1,317 @@
+{
+  "utilisateur": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "prof",
+      "password": "prof",
+      "role": "prof"
+    },
+    {
+      "id": "3",
+      "username": "achraf",
+      "password": "achraf",
+      "role": "etudiant"
+    },
+    {
+      "id": "4",
+      "username": "adnane",
+      "password": "elmir",
+      "role": "etudiant"
+    },
+    {
+      "id": "5",
+      "username": "kaouter",
+      "password": "metat",
+      "role": "etudiant"
+    },
+    {
+      "id": "6",
+      "username": "assia",
+      "password": "sounani",
+      "role": "etudiant"
+    },
+    {
+      "id": "7",
+      "username": "marwan",
+      "password": "bourchid",
+      "role": "etudiant"
+    },
+    {
+      "id": "8",
+      "username": "hamza",
+      "password": "chanouf",
+      "role": "etudiant"
+    },
+    {
+      "id": "9",
+      "username": "rabbab",
+      "password": "metat",
+      "role": "etudiant"
+    },
+    {
+      "id": "10",
+      "username": "mastafa",
+      "password": "sa7ra",
+      "role": "etudiant"
+    },
+    {
+      "id": "11",
+      "username": "amine",
+      "password": "amine",
+      "role": "etudiant"
+    },
+    {
+      "id": "12",
+      "username": "houda",
+      "password": "metat",
+      "role": "etudiant"
+    },
+    {
+      "id": "13",
+      "username": "hafid",
+      "password": "hafid",
+      "role": "etudiant"
+    },
+    {
+      "id": 51842,
+      "username": "achraf111111",
+      "password": "achraf111111",
+      "role": "etudiant"
+    }
+  ],
+  "candidature": [
+    {
+      "id": "1",
+      "nom": "achraf",
+      "prenom": "abdeslami",
+      "age": 20,
+      "sexe": "homme",
+      "pays": "maroc",
+      "nbreAbsence": 1,
+      "filiere": "developement digital",
+      "groupe": "Dev202",
+      "email": "achraf@gmail.com",
+      "absences": [
+        {
+          "ida": 1,
+          "typeA": "non justifiée",
+          "dateA": "2024-05-06"
+        }
+      ],
+      "idu": 3
+    },
+    {
+      "id": "2",
+      "nom": "Sara",
+      "prenom": "Lefebvre",
+      "age": 22,
+      "sexe": "femme",
+      "pays": "maroc",
+      "nbreAbsence": 0,
+      "filiere": "Informatique",
+      "groupe": "Info301",
+      "email": "sara@gmail.com",
+      "absences": [],
+      "idu": 4
+    },
+    {
+      "id": "3",
+      "nom": "Juan",
+      "prenom": "Gonzalez",
+      "age": 21,
+      "sexe": "homme",
+      "pays": "maroc",
+      "nbreAbsence": 1,
+      "filiere": "developement digital",
+      "groupe": "Ing101",
+      "email": "juan@gmail.com",
+      "absences": [
+        {
+          "ida": 2,
+          "typeA": "non justifiée",
+          "dateA": "2024-04-30"
+        }
+      ],
+      "idu": 5
+    },
+    {
+      "id": "4",
+      "nom": "Elmir",
+      "prenom": "Adnane",
+      "age": 23,
+      "sexe": "femme",
+      "pays": "maroc",
+      "nbreAbsence": 2,
+      "filiere": "developement digital",
+      "groupe": "Design402",
+      "email": "Adnane@gmail.com",
+      "absences": [
+        {
+          "ida": 3,
+          "typeA": "justifiée",
+          "dateA": "2024-04-28"
+        },
+        {
+          "ida": 4,
+          "typeA": "non justifiée",
+          "dateA": "2024-05-02"
+        }
+      ],
+      "idu": 6
+    },
+    {
+      "id": "5",
+      "nom": "Ahmed",
+      "prenom": "Ali",
+      "age": 24,
+      "sexe": "homme",
+      "pays": "maroc",
+      "nbreAbsence": 0,
+      "filiere": "developement digital",
+      "groupe": "Electro502",
+      "email": "ahmed@gmail.com",
+      "absences": [],
+      "idu": 7
+    },
+    {
+      "id": "6",
+      "nom": "Sophie",
+      "prenom": "Dubois",
+      "age": 20,
+      "sexe": "femme",
+      "pays": "maroc",
+      "nbreAbsence": 1,
+      "filiere": "developement digital",
+      "groupe": "Jour103",
+      "email": "sophie@gmail.com",
+      "absences": [],
+      "idu": 8
+    },
+    {
+      "id": "7",
+      "nom": "Luca",
+      "prenom": "Rossi",
+      "age": 22,
+      "sexe": "homme",
+      "pays": "maroc",
+      "nbreAbsence": 0,
+      "filiere": "developement digital",
+      "groupe": "Fin201",
+      "email": "luca@gmail.com",
+      "absences": [],
+      "idu": 9
+    },
+    {
+      "id": "8",
+      "nom": "Lea",
+      "prenom": "Martinez",
+      "age": 21,
+      "sexe": "femme",
+      "pays": "maroc",
+      "nbreAbsence": 0,
+      "filiere": "developement digital",
+      "groupe": "Med502",
+      "email": "lea@gmail.com",
+      "absences": [],
+      "idu": 10
+    },
+    {
+      "id": "9",
+      "nom": "Amine",
+      "prenom": "tahri",
+      "age": 23,
+      "sexe": "homme",
+      "pays": "maroc",
+      "nbreAbsence": 3,
+      "filiere": "developement digital",
+      "groupe": "GC301",
+      "email": "amine@gmail.com",
+      "absences": [
+        {
+          "ida": 5,
+          "typeA": "non justifiée",
+          "dateA": "2024-05-01"
+        },
+        {
+          "ida": 6,
+          "typeA": "non justifiée",
+          "dateA": "2024-05-04"
+        },
+        {
+          "ida": 7,
+          "typeA": "non justifiée",
+          "dateA": "2024-05-07"
+        }
+      ],
+      "idu": 11
+    },
+    {
+      "id": "10",
+      "nom": "Camille",
+      "prenom": "Petit",
+      "age": 20,
+      "sexe": "femme",
+      "pays": "France",
+      "nbreAbsence": 0,
+      "filiere": "developement digital",
+      "groupe": "Psy101",
+      "email": "camille@gmail.com",
+      "absences": [],
+      "idu": 12
+    },
+    {
+      "id": "1e13",
+      "nom": "achraf111111",
+      "prenom": "achraf111111",
+      "age": "achraf111111",
+      "sexe": "achraf111111",
+      "email": "achraf111111@gmail.com",
+      "pays": "achraf111111",
+      "filiere": "achraf111111",
+      "groupe": "achraf111111",
+      "absences": [],
+      "nbreAbsence": 0,
+      "idu": 51842
+    }
+  ],
+  "rapport": [
+    {
+      "id": "975",
+      "username": "prof",
+      "iduti": 2,
+      "subject": "ee",
+      "message": "e",
+      "date_envoy": 2024
+    },
+    {
+      "id": "98",
+      "username": "prof",
+      "iduti": 2,
+      "subject": "ee",
+      "message": "e",
+      "date_envoy": 2024
+    },
+    {
+      "id": "75",
+      "username": "prof",
+      "iduti": 2,
+      "subject": "ee",
+      "message": "e",
+      "date_envoy": 2024
+    },
+    {
+      "id": "95",
+      "username": "prof",
+      "iduti": 2,
+      "subject": "ee",
+      "message": "e",
+      "date_envoy": 2024
+    }
+  ]
+}
